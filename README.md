@@ -41,6 +41,6 @@ It is sandboxed, modular, and fast—built for safe client modding.
 
 ## Install
 ```sh
-git clone https://github.com/xero-project/XeroJS
+git clone https://github.com/xero-development/XeroJS
 cd XeroJS
 npm install
